@@ -1,4 +1,5 @@
 TEACHER   ELIMINATION   GAME
+
 This game is about eliminating a teacher of the options available by tapping them 
 
 
